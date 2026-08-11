@@ -19,7 +19,7 @@
     width: 100px;
 } 
 .logo{
-    background-image: url("Resources/Photos/amazon_logo.png");
+    background-image: url("Resources/%20Photos/amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100px;
@@ -122,7 +122,7 @@ span{
     font-weight: 700;
 }
 .carousel{
-    background-image: url("Resources/Photos/hero_image.jpg");
+    background-image: url("Resources/%20Photos/hero_image.jpg");
     height: 350px;
     background-size: cover;
     display: flex;
@@ -212,7 +212,7 @@ ul a{
     align-items: center;
 }
 .logo2{
-    background-image: url("Resources/Photos/amazon_logo.png");
+    background-image: url("Resources/%20Photos/amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 80px;
